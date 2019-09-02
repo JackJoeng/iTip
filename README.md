@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='iTip/Assets.xcassets/image/iTip-Demo.gif'' alt='Video Walkthrough' />
+<img src='iTip-Demo.gif'' alt='Video Walkthrough' />
 
 
 
